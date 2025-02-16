@@ -1,6 +1,6 @@
 
 import { world } from "@minecraft/server"
-import { MessageFormData, ModalFormData } from "@minecraft/server-ui"
+import { MessageFormData, ModalFormData} from "@minecraft/server-ui"
 
 
 //Iniciamos un Evento Mundial con Propiedad <<ItemUse>>
